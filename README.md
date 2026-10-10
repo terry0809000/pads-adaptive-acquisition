@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/project-cover.png" width="100%" alt="Conceptual scientific artwork for Adaptive smartwatch task acquisition" /></p>
+
 # Adaptive versus fixed smartwatch task acquisition
 
 **AI for Health · Research pipeline · Source-code release**
