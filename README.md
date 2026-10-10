@@ -2,7 +2,9 @@
 
 **AI for Health · Research pipeline · Source-code release**
 
-This project provides the author's existing analysis implementation for adaptive versus fixed smartwatch task acquisition. Scientific source files are preserved from the local research product. This upload organizes code and documentation; it does not represent new experiments, model retraining or an independently verified reproduction.
+A wearable has limited time to ask useful questions. This project compares adaptive and fixed task acquisition using PADS smartwatch recordings, exploring how the next measurement is chosen.
+
+This repository preserves the saved scientific implementation, with its original execution notes and a source-specific pipeline guide.
 
 ## Pipeline
 
