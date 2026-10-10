@@ -1,0 +1,210 @@
+[
+  {
+    "path": "docs/original/README.md",
+    "sha256": "f3427a8275aaab00036e5094ae7502109d65921e3a4e84308bbdb7cf09ce75a7"
+  },
+  {
+    "path": "SOURCE_MANIFEST.json",
+    "sha256": "1bc6a9dd48150c0e34ddc4a6778233f869118c69050481302ef63ede94ebbcff"
+  },
+  {
+    "path": "pads_analysis/acquisition_rules.py",
+    "sha256": "a6917a1b0586a8fd15c1b9a0edef81592f5ae674d132f35f4b4ac6f1e45c9811"
+  },
+  {
+    "path": "pads_analysis/evaluate_primary.py",
+    "sha256": "6ee9124e5ea8b050f51ca1649e7603448f54697bfb1bce5c94194466097f6d48"
+  },
+  {
+    "path": "pads_analysis/make_figures.py",
+    "sha256": "f95616ef4f5076390cabd9705ece8168c3aedd13d229e13512a1bce92dbe3ebc"
+  },
+  {
+    "path": "pads_analysis/reviewer_round1/make_round1.py",
+    "sha256": "9b908c461e6870bf6110d5ea05b48d9bf4b22ff97ecac38eeabd98ffc10bc08d"
+  },
+  {
+    "path": "pads_analysis/reviewer_round1/package_round1.py",
+    "sha256": "b9602888dc7d17de10166650ec73eeea97e8be0a6b3c5b7f6dd1bf52eef1a96c"
+  },
+  {
+    "path": "pads_analysis/reviewer_round2/build_round2_report.py",
+    "sha256": "dc84d098f8d77ad13c4bb5502289a91b5721f2c3e7f93a2328907237eda5b21c"
+  },
+  {
+    "path": "pads_analysis/reviewer_round2/package_round2.py",
+    "sha256": "3396bf3de66c8ec87138ac92383e73336b527dcb43d9da2b0407a3c91447e0ea"
+  },
+  {
+    "path": "pads_analysis/reviewer_round2/run_repeats.py",
+    "sha256": "75bdcbb51df597bd17d35a0faeca8424b3c1015bc206dd10a7fb3e4d7b6fe47a"
+  },
+  {
+    "path": "pads_analysis/reviewer_round2/summarize_repeats.py",
+    "sha256": "ce87c87439e5a783599e1c055e09d4279e671befa349bf97a2b1a896be62ee73"
+  },
+  {
+    "path": "pads_analysis/reviewer_round3/diagnostic_uncertainty.py",
+    "sha256": "1ba2a7ec8135639355d9c7fc34e62eea8d70cb5e7ed6627a1fabf237f725a72a"
+  },
+  {
+    "path": "pads_analysis/reviewer_round3/make_figures.py",
+    "sha256": "ffb8091e848edc96b548d1b1c4df7f8c61f0438b4ef7723aed421c76300875da"
+  },
+  {
+    "path": "pads_analysis/reviewer_round3/package_round3.py",
+    "sha256": "90ac3e8cf2eb320a670d6e79a26f8c81d3eedcfae22ae3ce2ddfb66fbd61a20e"
+  },
+  {
+    "path": "pads_analysis/reviewer_round3/run_round3.py",
+    "sha256": "77004f018b0f4a9adec8aff72aad496734f34156f36dc1837bff435222db5c17"
+  },
+  {
+    "path": "pads_analysis/reviewer_round4/allocation_rules.py",
+    "sha256": "ab85d456a76f135e45455eb9cfd2a0134ab9c812fdc708a04ed7faa12dd84744"
+  },
+  {
+    "path": "pads_analysis/reviewer_round4/make_figures.py",
+    "sha256": "659ed02da642bfc3696b6264b1492e3a5f670057077f1e7537650139fb1445de"
+  },
+  {
+    "path": "pads_analysis/reviewer_round4/package_round4.py",
+    "sha256": "416ad012cb979fc99fd9fc1a5717a80f9318bebc69e9f2fc07b9acaa4604624a"
+  },
+  {
+    "path": "pads_analysis/reviewer_round4/run_round4.py",
+    "sha256": "f0f6803db20deb286283df8ae79287ba6dba9384a1ef0872c14174a8c526c347"
+  },
+  {
+    "path": "pads_analysis/reviewer_round5/make_figures.py",
+    "sha256": "e2c111deac6f08083194e590eba331360ecc387ad75d2f94b10bdbc89b5df94e"
+  },
+  {
+    "path": "pads_analysis/reviewer_round5/package_round5.py",
+    "sha256": "8322c0927b84bf1612497d737c05b33a2afccb308e9e9b463c99350c1a27fada"
+  },
+  {
+    "path": "pads_analysis/reviewer_round5/random_controls.py",
+    "sha256": "c07b0fd7b3fd100ff281d7f428e98267d985de2e0e958dc9eda245a187c54590"
+  },
+  {
+    "path": "pads_analysis/reviewer_round5/run_round5.py",
+    "sha256": "845501e6a62773db0659e89ab8b23d70eb1a86ef828775bbde237088a3c3d0fc"
+  },
+  {
+    "path": "pads_analysis/reviewer_round5/summarize_round5.py",
+    "sha256": "c3fa6e2e890e37061245e3cea7144ce2bd4a03675ba5a77669515156de1fbc3f"
+  },
+  {
+    "path": "pads_analysis/reviewer_round6/build_review_audit.py",
+    "sha256": "f8a1f678a52b5a8ff4ac129bc5d5de901f491a3cc91ab3f458bd4b670a2f8697"
+  },
+  {
+    "path": "pads_analysis/reviewer_round6/make_integrated_figures.py",
+    "sha256": "4ef012370d5353de55da49f9236b4b5bd60697913a5135dc75cf4f080bbd466c"
+  },
+  {
+    "path": "pads_analysis/reviewer_round6/package_round6.py",
+    "sha256": "ffb558c365f0b98bec2fefca56d85654b39308441d65dce09183dbce5b3dc3f4"
+  },
+  {
+    "path": "pads_analysis/reviewer_round6/parameterized_analysis.py",
+    "sha256": "ae3db3ff9b6b35f6c7e51ea50f2a9447d5b30e4e7220cf4e031955ebdaec55d1"
+  },
+  {
+    "path": "pads_analysis/reviewer_round6/run_sensitivity.py",
+    "sha256": "34697cfcd0762ada32e585e7835923e096393ed41b69b8889fa6db167cee4737"
+  },
+  {
+    "path": "pads_analysis/reviewer_round6/summarize_sensitivity.py",
+    "sha256": "131b5358c3795c53d1b94e4bfdf9b3f6a1400f67b007cf1880ce3c682b42535a"
+  },
+  {
+    "path": "pads_analysis/reviewer_round6/validate_integration.py",
+    "sha256": "c51f203b77a8c2cf1472c3a58121c0c1abe4fdf6bc05f14c48f93b92bc6e1691"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/ENVIRONMENT.json",
+    "sha256": "c5ec540c50c3f20f5c1fcc4ce69c8c3c173e39b92d3cccc6563c0dbb4a034cf4"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/assemble_round7.py",
+    "sha256": "9c50a66ce87311d0cdc11b8a51ab719b56cce8bde54d13b14f88b613411557a8"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/build_reference_audit.py",
+    "sha256": "c3bb0311ca6676c5e2cc2857890fcaf1175a112245372d2c86a443053f64fce9"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/build_review_audit.py",
+    "sha256": "481ecd38cd8c738963373d7ff1e50c569dfb5a9704913c252383b55c5da54964"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/checkpoint.py",
+    "sha256": "704ffa009e6f4a8aca0c53e53b212cf07ee73461db32d770c42017be5b89c280"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/finish_analysis.py",
+    "sha256": "c2dafe2627612510094b2af9b10a83ec60eb7aeecd36c15c7051f816aa757d64"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/grouped_analysis.py",
+    "sha256": "8dabf2dc8d31beb50a60bfd5635f1f6b7147378c999da415b9fbe1d41a8f5c1f"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/methods_revisions.py",
+    "sha256": "4a25ffb855e839276a03eef357d9637495c66debed441ccc471e5a3eec25b48b"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/package_round7.py",
+    "sha256": "cda10294e2832360ae214d89c541123e7208096590172686d8ffd9503849e4ac"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/plot_bootstrap.py",
+    "sha256": "b2c86509edd9c83d0b1124d1badf39aed8daa39943d8a068770c862313982055"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/run_bootstrap.py",
+    "sha256": "f42c0584ffb03b04929395d49e3800e30ba59c55d390823dc860f42c627db63f"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/summarize_bootstrap.py",
+    "sha256": "b97a9c2f76c2a2e31ba0bf589b32889c7907c13a29f32fd39d6b512771c14aeb"
+  },
+  {
+    "path": "pads_analysis/reviewer_round7/validate_integration.py",
+    "sha256": "097a0fc3002a45eed65ae330d7874886b1827b11434f25ba7eb7fadbd339b066"
+  },
+  {
+    "path": "pads_analysis/run_analysis.py",
+    "sha256": "34ba6614d209d88215f764a44a650133624b002e4cb6128dd225dccc0adbc056"
+  },
+  {
+    "path": "pads_analysis/summarize_results.py",
+    "sha256": "e56c18f575e8826969baf53ba312d98c751481733ebc0be83689c2e58835d5dc"
+  },
+  {
+    "path": "pads_analysis/verify_analysis_rules.py",
+    "sha256": "44f07596ac2e6315d447909d7dd2a33aa67b1a59a589fdcc8b2fb463671fec3e"
+  },
+  {
+    "path": "pads_features_received/PADS_features_return/extract_pads_features.py",
+    "sha256": "94c439134ac94fe83ce82e874af2a45de53fb90207fb8971a756087cd0132478"
+  },
+  {
+    "path": "pads_features_received/PADS_features_return/requirements.txt",
+    "sha256": "bbe7e0d48fd759d782cbcda080791a5af33842b74f2c08ad9730a700a9646fcd"
+  },
+  {
+    "path": "prepare_folds.py",
+    "sha256": "e1ae3a22975f1d5511b07a79ff466d71179976a0d02ba80bce13d9d6dee80f39"
+  },
+  {
+    "path": "prepare_random_input_manifest.py",
+    "sha256": "88b4ed98b3af15dac17aa16d0b6d479483dc92bfd56ebdb1d82cf19762904b45"
+  },
+  {
+    "path": "requirements_analysis.txt",
+    "sha256": "4bcee35a7b7d7c730130448c394a447e780077f14722a9e74586fdacc502f770"
+  }
+]

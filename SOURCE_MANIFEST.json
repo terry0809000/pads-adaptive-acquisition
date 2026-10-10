@@ -1,0 +1,691 @@
+{
+  "files": [
+    {
+      "file": "pads_analysis/summarize_results.py",
+      "sha256": "e56c18f575e8826969baf53ba312d98c751481733ebc0be83689c2e58835d5dc",
+      "source": "pads_analysis/summarize_results.py"
+    },
+    {
+      "file": "pads_analysis/make_figures.py",
+      "sha256": "f95616ef4f5076390cabd9705ece8168c3aedd13d229e13512a1bce92dbe3ebc",
+      "source": "pads_analysis/make_figures.py"
+    },
+    {
+      "file": "pads_analysis/verify_analysis_rules.py",
+      "sha256": "44f07596ac2e6315d447909d7dd2a33aa67b1a59a589fdcc8b2fb463671fec3e",
+      "source": "pads_analysis/verify_analysis_rules.py"
+    },
+    {
+      "file": "pads_analysis/build_package.py",
+      "sha256": "d52aa22ac24529632b0d46a8f15c5ecdfa1ceb028c84b3cafa46dd73dee02d65",
+      "source": "pads_analysis/build_package.py"
+    },
+    {
+      "file": "pads_analysis/build_manuscript.py",
+      "sha256": "4b456bad13c08ebc20653bf9f79d48a7cebfeac0bd5f27565718a62f37a255e6",
+      "source": "pads_analysis/build_manuscript.py"
+    },
+    {
+      "file": "pads_analysis/run_analysis.py",
+      "sha256": "34ba6614d209d88215f764a44a650133624b002e4cb6128dd225dccc0adbc056",
+      "source": "pads_analysis/run_analysis.py"
+    },
+    {
+      "file": "pads_analysis/acquisition_rules.py",
+      "sha256": "a6917a1b0586a8fd15c1b9a0edef81592f5ae674d132f35f4b4ac6f1e45c9811",
+      "source": "pads_analysis/acquisition_rules.py"
+    },
+    {
+      "file": "pads_analysis/evaluate_primary.py",
+      "sha256": "6ee9124e5ea8b050f51ca1649e7603448f54697bfb1bce5c94194466097f6d48",
+      "source": "pads_analysis/evaluate_primary.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/run_round5.py",
+      "sha256": "845501e6a62773db0659e89ab8b23d70eb1a86ef828775bbde237088a3c3d0fc",
+      "source": "pads_analysis/reviewer_round5/run_round5.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/make_figures.py",
+      "sha256": "e2c111deac6f08083194e590eba331360ecc387ad75d2f94b10bdbc89b5df94e",
+      "source": "pads_analysis/reviewer_round5/make_figures.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/build_report.py",
+      "sha256": "7ac312a2b87bb50cb3ed2c9badff30d38934905e94d01eb9a9ad3e044523e988",
+      "source": "pads_analysis/reviewer_round5/build_report.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/random_controls.py",
+      "sha256": "c07b0fd7b3fd100ff281d7f428e98267d985de2e0e958dc9eda245a187c54590",
+      "source": "pads_analysis/reviewer_round5/random_controls.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/summarize_round5.py",
+      "sha256": "c3fa6e2e890e37061245e3cea7144ce2bd4a03675ba5a77669515156de1fbc3f",
+      "source": "pads_analysis/reviewer_round5/summarize_round5.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/package_round5.py",
+      "sha256": "8322c0927b84bf1612497d737c05b33a2afccb308e9e9b463c99350c1a27fada",
+      "source": "pads_analysis/reviewer_round5/package_round5.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/build_report.py",
+      "sha256": "4a2f225b5b4608578fbca45c5d320009886a5415e2d5caeb4508ba309f58e53a",
+      "source": "pads_analysis/reviewer_round1/build_report.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/package_round1.py",
+      "sha256": "b9602888dc7d17de10166650ec73eeea97e8be0a6b3c5b7f6dd1bf52eef1a96c",
+      "source": "pads_analysis/reviewer_round1/package_round1.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/make_round1.py",
+      "sha256": "9b908c461e6870bf6110d5ea05b48d9bf4b22ff97ecac38eeabd98ffc10bc08d",
+      "source": "pads_analysis/reviewer_round1/make_round1.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/package_round6.py",
+      "sha256": "ffb558c365f0b98bec2fefca56d85654b39308441d65dce09183dbce5b3dc3f4",
+      "source": "pads_analysis/reviewer_round6/package_round6.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/make_integrated_figures.py",
+      "sha256": "4ef012370d5353de55da49f9236b4b5bd60697913a5135dc75cf4f080bbd466c",
+      "source": "pads_analysis/reviewer_round6/make_integrated_figures.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/run_sensitivity.py",
+      "sha256": "34697cfcd0762ada32e585e7835923e096393ed41b69b8889fa6db167cee4737",
+      "source": "pads_analysis/reviewer_round6/run_sensitivity.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/parameterized_analysis.py",
+      "sha256": "ae3db3ff9b6b35f6c7e51ea50f2a9447d5b30e4e7220cf4e031955ebdaec55d1",
+      "source": "pads_analysis/reviewer_round6/parameterized_analysis.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/build_review_audit.py",
+      "sha256": "f8a1f678a52b5a8ff4ac129bc5d5de901f491a3cc91ab3f458bd4b670a2f8697",
+      "source": "pads_analysis/reviewer_round6/build_review_audit.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/summarize_sensitivity.py",
+      "sha256": "131b5358c3795c53d1b94e4bfdf9b3f6a1400f67b007cf1880ce3c682b42535a",
+      "source": "pads_analysis/reviewer_round6/summarize_sensitivity.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/validate_integration.py",
+      "sha256": "c51f203b77a8c2cf1472c3a58121c0c1abe4fdf6bc05f14c48f93b92bc6e1691",
+      "source": "pads_analysis/reviewer_round6/validate_integration.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/assemble_manuscripts.py",
+      "sha256": "023308b35d6f9ee9789ae9e0d47b7f1f6ee03a7e34fb80536749d7fe2a36edb3",
+      "source": "pads_analysis/reviewer_round6/assemble_manuscripts.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/build_integrated_docx.py",
+      "sha256": "0e2c5bb92400b5bf8474ac56cddc657a317f7feb087ec006650a6e59d3f6708a",
+      "source": "pads_analysis/reviewer_round6/build_integrated_docx.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/package_round3.py",
+      "sha256": "90ac3e8cf2eb320a670d6e79a26f8c81d3eedcfae22ae3ce2ddfb66fbd61a20e",
+      "source": "pads_analysis/reviewer_round3/package_round3.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/make_figures.py",
+      "sha256": "ffb8091e848edc96b548d1b1c4df7f8c61f0438b4ef7723aed421c76300875da",
+      "source": "pads_analysis/reviewer_round3/make_figures.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/build_report.py",
+      "sha256": "cd7ca9a1774323008f66bd8ece017e01a403262496194f5b54d4f2a72e5721b4",
+      "source": "pads_analysis/reviewer_round3/build_report.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/diagnostic_uncertainty.py",
+      "sha256": "1ba2a7ec8135639355d9c7fc34e62eea8d70cb5e7ed6627a1fabf237f725a72a",
+      "source": "pads_analysis/reviewer_round3/diagnostic_uncertainty.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/run_round3.py",
+      "sha256": "77004f018b0f4a9adec8aff72aad496734f34156f36dc1837bff435222db5c17",
+      "source": "pads_analysis/reviewer_round3/run_round3.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/summarize_bootstrap.py",
+      "sha256": "b97a9c2f76c2a2e31ba0bf589b32889c7907c13a29f32fd39d6b512771c14aeb",
+      "source": "pads_analysis/reviewer_round7/summarize_bootstrap.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/finish_analysis.py",
+      "sha256": "c2dafe2627612510094b2af9b10a83ec60eb7aeecd36c15c7051f816aa757d64",
+      "source": "pads_analysis/reviewer_round7/finish_analysis.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/manuscript_revisions.py",
+      "sha256": "6ff324197dadfcb6d7941761817b4318eb560a242b344f73dd55fb2e89fd03f0",
+      "source": "pads_analysis/reviewer_round7/manuscript_revisions.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/methods_revisions.py",
+      "sha256": "4a25ffb855e839276a03eef357d9637495c66debed441ccc471e5a3eec25b48b",
+      "source": "pads_analysis/reviewer_round7/methods_revisions.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/build_reference_audit.py",
+      "sha256": "c3bb0311ca6676c5e2cc2857890fcaf1175a112245372d2c86a443053f64fce9",
+      "source": "pads_analysis/reviewer_round7/build_reference_audit.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/grouped_analysis.py",
+      "sha256": "8dabf2dc8d31beb50a60bfd5635f1f6b7147378c999da415b9fbe1d41a8f5c1f",
+      "source": "pads_analysis/reviewer_round7/grouped_analysis.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/plot_bootstrap.py",
+      "sha256": "b2c86509edd9c83d0b1124d1badf39aed8daa39943d8a068770c862313982055",
+      "source": "pads_analysis/reviewer_round7/plot_bootstrap.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/package_round7.py",
+      "sha256": "cda10294e2832360ae214d89c541123e7208096590172686d8ffd9503849e4ac",
+      "source": "pads_analysis/reviewer_round7/package_round7.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/assemble_round7.py",
+      "sha256": "9c50a66ce87311d0cdc11b8a51ab719b56cce8bde54d13b14f88b613411557a8",
+      "source": "pads_analysis/reviewer_round7/assemble_round7.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/run_bootstrap.py",
+      "sha256": "f42c0584ffb03b04929395d49e3800e30ba59c55d390823dc860f42c627db63f",
+      "source": "pads_analysis/reviewer_round7/run_bootstrap.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/build_review_audit.py",
+      "sha256": "481ecd38cd8c738963373d7ff1e50c569dfb5a9704913c252383b55c5da54964",
+      "source": "pads_analysis/reviewer_round7/build_review_audit.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/validate_integration.py",
+      "sha256": "097a0fc3002a45eed65ae330d7874886b1827b11434f25ba7eb7fadbd339b066",
+      "source": "pads_analysis/reviewer_round7/validate_integration.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/build_integrated_docx.py",
+      "sha256": "c35bdc0d49b4aaae4c0dc6124a2a67e76ed0766653b3f4fa205b5e89bd4205e1",
+      "source": "pads_analysis/reviewer_round7/build_integrated_docx.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/checkpoint.py",
+      "sha256": "704ffa009e6f4a8aca0c53e53b212cf07ee73461db32d770c42017be5b89c280",
+      "source": "pads_analysis/reviewer_round7/checkpoint.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/make_figures.py",
+      "sha256": "659ed02da642bfc3696b6264b1492e3a5f670057077f1e7537650139fb1445de",
+      "source": "pads_analysis/reviewer_round4/make_figures.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/build_report.py",
+      "sha256": "a42c99b70cab5b19b0e693237fb8cdf9a9e5961ae802222c326e09261d19085f",
+      "source": "pads_analysis/reviewer_round4/build_report.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/allocation_rules.py",
+      "sha256": "ab85d456a76f135e45455eb9cfd2a0134ab9c812fdc708a04ed7faa12dd84744",
+      "source": "pads_analysis/reviewer_round4/allocation_rules.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/package_round4.py",
+      "sha256": "416ad012cb979fc99fd9fc1a5717a80f9318bebc69e9f2fc07b9acaa4604624a",
+      "source": "pads_analysis/reviewer_round4/package_round4.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/run_round4.py",
+      "sha256": "f0f6803db20deb286283df8ae79287ba6dba9384a1ef0872c14174a8c526c347",
+      "source": "pads_analysis/reviewer_round4/run_round4.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/summarize_repeats.py",
+      "sha256": "ce87c87439e5a783599e1c055e09d4279e671befa349bf97a2b1a896be62ee73",
+      "source": "pads_analysis/reviewer_round2/summarize_repeats.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/package_round2.py",
+      "sha256": "3396bf3de66c8ec87138ac92383e73336b527dcb43d9da2b0407a3c91447e0ea",
+      "source": "pads_analysis/reviewer_round2/package_round2.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/build_round2_report.py",
+      "sha256": "dc84d098f8d77ad13c4bb5502289a91b5721f2c3e7f93a2328907237eda5b21c",
+      "source": "pads_analysis/reviewer_round2/build_round2_report.py"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/run_repeats.py",
+      "sha256": "75bdcbb51df597bd17d35a0faeca8424b3c1015bc206dd10a7fb3e4d7b6fe47a",
+      "source": "pads_analysis/reviewer_round2/run_repeats.py"
+    },
+    {
+      "file": "pads_analysis/ANALYSIS_PLAN.md",
+      "sha256": "402b6efb13229cd13829b28fc1d9c2a582bb783f4b2a3d3eb14fb2f33549c79a",
+      "source": "pads_analysis/ANALYSIS_PLAN.md"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/ROUND5_SPEC.md",
+      "sha256": "bbbd1a4292c948ef5879092af94329f98537b659fc8ec6874c423f710e93f5c0",
+      "source": "pads_analysis/reviewer_round5/ROUND5_SPEC.md"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/ROUND6_SPEC.md",
+      "sha256": "b5cb9b8674e6d15eb4a075716787a9534bf184ec0bdd960811bf45d3fb720f3d",
+      "source": "pads_analysis/reviewer_round6/ROUND6_SPEC.md"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/ROUND3_SPEC.md",
+      "sha256": "a4d3ae1a43bc7d4e9f890187c13d33d3cecc5fb03c93eafdee76dd8c21cdaa4e",
+      "source": "pads_analysis/reviewer_round3/ROUND3_SPEC.md"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/ROUND7_SPEC.md",
+      "sha256": "23067a578496ee7da40c65f72e645519080e84c4805dbd29451aca88118ee56a",
+      "source": "pads_analysis/reviewer_round7/ROUND7_SPEC.md"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/ROUND4_SPEC.md",
+      "sha256": "a2a1ff598f255a721b1ebc4b6ff693dd597c6aa2246c174bb67e12a65e82e565",
+      "source": "pads_analysis/reviewer_round4/ROUND4_SPEC.md"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/ROUND2_SPEC.md",
+      "sha256": "7e1216190c8055e939eb3619c309a0988dbe8a58cee0e8b60455e75e9cb21e95",
+      "source": "pads_analysis/reviewer_round2/ROUND2_SPEC.md"
+    },
+    {
+      "file": "pads_analysis/summary/gap_scoring_sensitivity.csv",
+      "sha256": "99890c03b3afc2913e087b40ccf525ba04305fefd0df6ca4060a08e6c5feeb91",
+      "source": "pads_analysis/summary/gap_scoring_sensitivity.csv"
+    },
+    {
+      "file": "pads_analysis/summary/fold_metrics.csv",
+      "sha256": "ac5023c53ac2e6a6f3b99924d4ee3924b5e6b1bcbb533b688acad17c6ed017ba",
+      "source": "pads_analysis/summary/fold_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/summary/pca_variance_retained.csv",
+      "sha256": "6ca39cd069ca332902c48482bf862fd01b1ba7677aded00bfff9195ce01d441c",
+      "source": "pads_analysis/summary/pca_variance_retained.csv"
+    },
+    {
+      "file": "pads_analysis/summary/subgroup_metrics.csv",
+      "sha256": "4df6fbe516482bb4913a0482bef80332dc5fa2c3d828c22b1d183a9dc1a090d8",
+      "source": "pads_analysis/summary/subgroup_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/summary/selected_fixed_protocols.csv",
+      "sha256": "c69d6cd4215801a272112b7cd1c1e080bdd2ef9ced7f9eb04eefaefc8cbad0b0",
+      "source": "pads_analysis/summary/selected_fixed_protocols.csv"
+    },
+    {
+      "file": "pads_analysis/summary/method_metrics.csv",
+      "sha256": "f9926b81449a2611d354cae0cb473611a6448675412249a1fafcf75adb48e182",
+      "source": "pads_analysis/summary/method_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/summary/dd_subtype_metrics.csv",
+      "sha256": "722b1a2adcf118e910eb22e092da749e6e38b6f94ca42d623f2c04f3ed02fbbe",
+      "source": "pads_analysis/summary/dd_subtype_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/summary/task_acquisition_frequencies.csv",
+      "sha256": "0d10689acd2a2981940412b6f5ebd70d83535274173fa8963ca56b9d4c09fca3",
+      "source": "pads_analysis/summary/task_acquisition_frequencies.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/partition_metrics.csv",
+      "sha256": "fd0db50b4be0509576fc2f9166d80bcbdcc2fa1f43edd0fc334b4f5d93e08cbb",
+      "source": "pads_analysis/reviewer_round5/tables/partition_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/selected_thresholds.csv",
+      "sha256": "d569078cae184d7879552a452919bed9bee8a7250c123a70e45747d0bd5bff40",
+      "source": "pads_analysis/reviewer_round5/tables/selected_thresholds.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/fold_metrics.csv",
+      "sha256": "5c4357d74ed9014d6a4651bf41b7fdd158b3f958a1a40ea725b9c78e58c5370d",
+      "source": "pads_analysis/reviewer_round5/tables/fold_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/paired_contrasts.csv",
+      "sha256": "c063d1fecc652efcd81c4331e8f6ecd838efe7f5d6caa548d2cb347ed8bb02f0",
+      "source": "pads_analysis/reviewer_round5/tables/paired_contrasts.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/class_outcomes.csv",
+      "sha256": "a8b632bfffeb3b58a1994a5e23d36e2e495f1a95a36c198cf10204cddde9bae5",
+      "source": "pads_analysis/reviewer_round5/tables/class_outcomes.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/repeat_contrast_ranges.csv",
+      "sha256": "1843691f4bd9dccabe9c2dfb9823e43f4055f959e1c2329c4ce5f0c60ae179ea",
+      "source": "pads_analysis/reviewer_round5/tables/repeat_contrast_ranges.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/task_frequencies.csv",
+      "sha256": "dbf1ced192ae7ddc9708fa2f2e9e2b545dbf0db10303bc9b98b5a9eb44b24c24",
+      "source": "pads_analysis/reviewer_round5/tables/task_frequencies.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/original_conditional_intervals.csv",
+      "sha256": "1cb421d2aa6bf5a48958891db85aa7e084e85a110d6bb7b1d62b92e499bc0ab6",
+      "source": "pads_analysis/reviewer_round5/tables/original_conditional_intervals.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/monte_carlo_reference_ranges.csv",
+      "sha256": "40c039bd46dca6b56eca88ce76b7a1a2866a6390f0bc6497c23b346fddec828d",
+      "source": "pads_analysis/reviewer_round5/tables/monte_carlo_reference_ranges.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/tables/monte_carlo_realizations.csv",
+      "sha256": "fbcf732951c7a96d000bd386bf9e96c83a6c90be8c5ddde2f9f9d3990102284c",
+      "source": "pads_analysis/reviewer_round5/tables/monte_carlo_realizations.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/tables/score_reliability_bins.csv",
+      "sha256": "d48eb3a48ad4dc8d348cb580422ee8213967eda051106382f5fd2ff57033a1c4",
+      "source": "pads_analysis/reviewer_round1/tables/score_reliability_bins.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/tables/dd_subtype_intervals_and_outputs.csv",
+      "sha256": "5bb5e049443092f73690c480f2fa24cf283d790dc0286bd4826a24c1c0155a98",
+      "source": "pads_analysis/reviewer_round1/tables/dd_subtype_intervals_and_outputs.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/tables/deferral_loss_scenarios.csv",
+      "sha256": "36a5deff822f7ca2f151d4ef1cd6300222c04d9b73b34c66142cd79adbafb03b",
+      "source": "pads_analysis/reviewer_round1/tables/deferral_loss_scenarios.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/tables/subgroup_paired_intervals.csv",
+      "sha256": "ef73ba77178a8a8e4837976c236ef9e5fbaa5fbabfda1941c4fab8cbf1ba0ed7",
+      "source": "pads_analysis/reviewer_round1/tables/subgroup_paired_intervals.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/tables/score_metrics.csv",
+      "sha256": "17b4b787307610c940cb9eb9beb69476a91d40ed4456f6939ddf290a07ef313f",
+      "source": "pads_analysis/reviewer_round1/tables/score_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/tables/joint_bootstrap.csv",
+      "sha256": "4ffd829ebbc502759ebc0e083bb328fefced895b5acf1e8f5e414773bfa8d4db",
+      "source": "pads_analysis/reviewer_round1/tables/joint_bootstrap.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round1/tables/deferral_loss_components.csv",
+      "sha256": "26c7d5c953f4143f8bcb3eae06033095014950bcda7279792901a358e063d78d",
+      "source": "pads_analysis/reviewer_round1/tables/deferral_loss_components.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/tables/fold_metrics.csv",
+      "sha256": "60df5a40363aafc13eb1a4059c956b14c387c7fea0e066680cfd6973eebd6f1b",
+      "source": "pads_analysis/reviewer_round6/tables/fold_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/tables/paired_contrasts.csv",
+      "sha256": "a90d19faafe17fb8a910d2bf120ec3b82cbe7f114b883233d1aad7519e6fbbc3",
+      "source": "pads_analysis/reviewer_round6/tables/paired_contrasts.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round6/tables/configuration_metrics.csv",
+      "sha256": "7da93c7d701e3f8d28efacdd66221329263d4745f9c7e7bca98d16dd50884227",
+      "source": "pads_analysis/reviewer_round6/tables/configuration_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/probability_metrics.csv",
+      "sha256": "22a221539b9bbd0bd7d2949b11b08280eb223f1d04f9cb0fc8bfe27035b78f7d",
+      "source": "pads_analysis/reviewer_round3/tables/probability_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/reliability_bins.csv",
+      "sha256": "bcdc171342c1052221af37ea4e55add0a42ae71fcdbd61aff77c791f34591c5f",
+      "source": "pads_analysis/reviewer_round3/tables/reliability_bins.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/calibration_diagnostic_bootstrap.csv",
+      "sha256": "b92280844fb06b030221534e5b5fe1d288cb78ef26c300759538829318ddf68b",
+      "source": "pads_analysis/reviewer_round3/tables/calibration_diagnostic_bootstrap.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/subgroup_rejection_metrics.csv",
+      "sha256": "c3df5a05b37e3e6ead327a2367100b7268a81dc7dece7b78cc019ce3696ea624",
+      "source": "pads_analysis/reviewer_round3/tables/subgroup_rejection_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/repeat_rejection_metrics.csv",
+      "sha256": "939b9afe98b35769514b152bbbace4c6a2e8c83d9401f2de0ddb12bbf0f93f8c",
+      "source": "pads_analysis/reviewer_round3/tables/repeat_rejection_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/conditional_bootstrap_contrasts.csv",
+      "sha256": "4b08d7a6e9c0adc7d2a568b992dae4e96d0370bee6c3c4ceb084a63d83d79f21",
+      "source": "pads_analysis/reviewer_round3/tables/conditional_bootstrap_contrasts.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/fold_rejection_metrics.csv",
+      "sha256": "3e686684bb38719ccbdf4232bcf2e268f2472460d8b53cfa9b8588b281f162e9",
+      "source": "pads_analysis/reviewer_round3/tables/fold_rejection_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/conditional_intervals.csv",
+      "sha256": "c800edfa41e331e6b748f53ee14f8e26fcaedbd98d21c1bb4655dd9b551430c5",
+      "source": "pads_analysis/reviewer_round3/tables/conditional_intervals.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/rejection_thresholds.csv",
+      "sha256": "4c1bf240e07357154209e4f4957b4fcc7654e14b56a30e2e3ce9e47c0b2a831c",
+      "source": "pads_analysis/reviewer_round3/tables/rejection_thresholds.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/calibration_parameters.csv",
+      "sha256": "4b8e31494bf93931454a5170fcc8e18e1f744e9603db91647dcb1c0a8fa2dc8e",
+      "source": "pads_analysis/reviewer_round3/tables/calibration_parameters.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round3/tables/calibration_diagnostic_intervals.csv",
+      "sha256": "627689287e2ac9a27dca4842951d456435a2143e457cc7993c437befa41de000",
+      "source": "pads_analysis/reviewer_round3/tables/calibration_diagnostic_intervals.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/paired_stability.csv",
+      "sha256": "d47c189f59e1c2fdf72de9c06e27ec554990a4ee970ee776ee6a31d1f6fb77d6",
+      "source": "pads_analysis/reviewer_round7/tables/paired_stability.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/absolute_stability.csv",
+      "sha256": "6c844baf7f2687a14d49c7c75b1fbbe104cbe27740a509d53b05451cd2aba81b",
+      "source": "pads_analysis/reviewer_round7/tables/absolute_stability.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/replicate_paired_contrasts.csv",
+      "sha256": "bc0603666e36a05fdecaa8093a3a84050d307ad1f8b7ed271308e8098fd89b37",
+      "source": "pads_analysis/reviewer_round7/tables/replicate_paired_contrasts.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/joint_accuracy_time.csv",
+      "sha256": "344c5700bf6532aff09e3ea07b6165856223bb6e9cafeb55e2a5478de3cc9286",
+      "source": "pads_analysis/reviewer_round7/tables/joint_accuracy_time.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/selected_fixed_mask_frequency.csv",
+      "sha256": "8181e4aba427fd09b77b2322012e2db502f3228f91a4f883937a0558698ea43b",
+      "source": "pads_analysis/reviewer_round7/tables/selected_fixed_mask_frequency.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/replicate_metrics.csv",
+      "sha256": "98138429618d16e1de32286ffaa4f6876adb9c2e9fcea8a4315943c75e7b8835",
+      "source": "pads_analysis/reviewer_round7/tables/replicate_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/fold_thresholds_and_protocols.csv",
+      "sha256": "e4260db2bcdc536d8bd2a197d601eb85d1379e92266cd78937ad28b707ea35aa",
+      "source": "pads_analysis/reviewer_round7/tables/fold_thresholds_and_protocols.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/quantile_monte_carlo_diagnostics.csv",
+      "sha256": "cda7a2d504da79465ab3b809cdf8a395aa95309d6e0eb1d2af0b43ceaab3f2cd",
+      "source": "pads_analysis/reviewer_round7/tables/quantile_monte_carlo_diagnostics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/tables/monte_carlo_prefix_diagnostics.csv",
+      "sha256": "ca305aaa1c33f9d37bba8dfdc60c8858f5783114eee6d14c46ff95db29d04f52",
+      "source": "pads_analysis/reviewer_round7/tables/monte_carlo_prefix_diagnostics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/tables/repeat_allocation_metrics.csv",
+      "sha256": "0f4db93f7ec20ab8d244e3b54f84d4c6d401a761cdbc23775daf963dd86f3fc2",
+      "source": "pads_analysis/reviewer_round4/tables/repeat_allocation_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/tables/selected_allocations.csv",
+      "sha256": "a7feec1a82ceacb8a06f8c0fcf7c02383f0cc15983beafc5a4f46f3c7514cbcf",
+      "source": "pads_analysis/reviewer_round4/tables/selected_allocations.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/tables/subgroup_allocation_metrics.csv",
+      "sha256": "ae183b713c53da664ff9ceac3d88e1739f52a9e24c2d7f5b108beb52146978ee",
+      "source": "pads_analysis/reviewer_round4/tables/subgroup_allocation_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/tables/focal_development_candidates.csv",
+      "sha256": "57355ce8e350cd2b0a24b16cf5856daebc58f8a7d8e612776f263cb62ddabf5c",
+      "source": "pads_analysis/reviewer_round4/tables/focal_development_candidates.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/tables/output_transitions.csv",
+      "sha256": "2f8ed9cc8f1c46c297cf7d8e8473e7e00a91d687318f752f51993c4e143cd3b5",
+      "source": "pads_analysis/reviewer_round4/tables/output_transitions.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/tables/conditional_intervals.csv",
+      "sha256": "867eb7ec4bcd5fb2f9253d69bf914c9a4aea3d4161eeabd7ae35c82598d3f4dc",
+      "source": "pads_analysis/reviewer_round4/tables/conditional_intervals.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round4/tables/fold_allocation_metrics.csv",
+      "sha256": "4fcb57bbd9217a0e9bc7157f926961ca274e16126412109a6877311a663be928",
+      "source": "pads_analysis/reviewer_round4/tables/fold_allocation_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/tables/repeat_metrics.csv",
+      "sha256": "893623bdbb6064dd197a1e018d0e4a235ce7f3113f5aa87ff3a72903c6750621",
+      "source": "pads_analysis/reviewer_round2/tables/repeat_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/tables/dd_subtype_repeat_metrics.csv",
+      "sha256": "14c04012ff65eb6e3bfa8e931668055589b4f89ea21601cb6c08b28407aa0863",
+      "source": "pads_analysis/reviewer_round2/tables/dd_subtype_repeat_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/tables/fold_metrics.csv",
+      "sha256": "fc35b66c66e886f9c6a85c30fafb5396619b427fae6e5e5cdaf53779f643fc6b",
+      "source": "pads_analysis/reviewer_round2/tables/fold_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/tables/task_frequencies.csv",
+      "sha256": "f041a10dcb439db26642e313ce47636ed2e3e50f3deb64b32b1a81c490fbd3ed",
+      "source": "pads_analysis/reviewer_round2/tables/task_frequencies.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/tables/repeat_contrasts.csv",
+      "sha256": "eae1b1f6ae070ca2449b2bc61d981533e0987869c5b809717911ad956d6e543f",
+      "source": "pads_analysis/reviewer_round2/tables/repeat_contrasts.csv"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/tables/subgroup_repeat_metrics.csv",
+      "sha256": "9849f5704243b405051a9bb81d2cc9f22b67d705093a627ad76e8fad4e15e94b",
+      "source": "pads_analysis/reviewer_round2/tables/subgroup_repeat_metrics.csv"
+    },
+    {
+      "file": "pads_analysis/summary/ALL_RESULTS.json",
+      "sha256": "342d92baf7f8d56c5eb5ab94b632df1241afec5f5f8369966b92f63b351786b7",
+      "source": "pads_analysis/summary/ALL_RESULTS.json"
+    },
+    {
+      "file": "pads_analysis/summary/analysis_primary.json",
+      "sha256": "947a551b896d02c6edbda1b7b671aa99fbc0e8d75f2423cca845dec6d7e7dfe5",
+      "source": "pads_analysis/summary/analysis_primary.json"
+    },
+    {
+      "file": "pads_analysis/reviewer_round2/STABILITY_RESULTS.json",
+      "sha256": "3a140eae2944a098e8780ff0bfe368f294609c4a2d275b915268ce4ea05acde6",
+      "source": "pads_analysis/reviewer_round2/STABILITY_RESULTS.json"
+    },
+    {
+      "file": "pads_analysis/reviewer_round5/FREEZE.json",
+      "sha256": "2505d93476901b25f417001e29653042c36c8b927ae53747e28a4edf8be4453a",
+      "source": "pads_analysis/reviewer_round5/FREEZE.json"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/ROUND7_RESULTS.json",
+      "sha256": "1b7ad2809a669bc8ce3aa790d1aab73bd0e960dac3b4b79715b165e12ef6280a",
+      "source": "pads_analysis/reviewer_round7/ROUND7_RESULTS.json"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/VALIDATION.json",
+      "sha256": "1106e7c232f4786f80fd4af87b1b403d1c99b5b3ddfab99a48c57903cf3da377",
+      "source": "pads_analysis/reviewer_round7/VALIDATION.json"
+    },
+    {
+      "file": "pads_analysis/reviewer_round7/ENVIRONMENT.json",
+      "sha256": "c5ec540c50c3f20f5c1fcc4ce69c8c3c173e39b92d3cccc6563c0dbb4a034cf4",
+      "source": "pads_analysis/reviewer_round7/ENVIRONMENT.json"
+    },
+    {
+      "file": "pads_features_received/PADS_features_return/extract_pads_features.py",
+      "sha256": "94c439134ac94fe83ce82e874af2a45de53fb90207fb8971a756087cd0132478",
+      "source": "pads_features_received/PADS_features_return/extract_pads_features.py"
+    },
+    {
+      "file": "pads_features_received/PADS_features_return/FEATURE_PLAN.md",
+      "sha256": "644d18b8e1b18005af69006e2bb984c8ff8b7e290215663f44c9aec3cd9ccde0",
+      "source": "pads_features_received/PADS_features_return/FEATURE_PLAN.md"
+    },
+    {
+      "file": "pads_features_received/PADS_features_return/feature_configuration.json",
+      "sha256": "159b88062b9465bb49c7b89bb1c40acaa9d24dcf72545c20db557863e01d98e0",
+      "source": "pads_features_received/PADS_features_return/feature_configuration.json"
+    },
+    {
+      "file": "pads_features_received/PADS_features_return/requirements.txt",
+      "sha256": "bbe7e0d48fd759d782cbcda080791a5af33842b74f2c08ad9730a700a9646fcd",
+      "source": "pads_features_received/PADS_features_return/requirements.txt"
+    },
+    {
+      "file": "historical_audit/round5_input_manifest.json",
+      "sha256": "289b275da8f533187c1da1118110a0aac3192245c67a6fade22bc6196d33413e",
+      "source": "pads_analysis/reviewer_round5/INPUT_MANIFEST.json"
+    }
+  ],
+  "excluded_participant_or_large_files": [
+    "summary/held_out_predictions_primary.csv",
+    "summary/held_out_predictions_without_nms.csv",
+    "reviewer_round5/tables/permutation_pools.csv",
+    "reviewer_round5/tables/permutation_pool_summary.csv",
+    "reviewer_round5/tables/participant_expectations.csv",
+    "reviewer_round6/tables/held_out_predictions.csv",
+    "reviewer_round3/tables/held_out_selective_outputs.csv",
+    "reviewer_round3/tables/held_out_probability_scores.csv",
+    "reviewer_round7/tables/fit_sample_sizes.csv",
+    "reviewer_round7/tables/participant_stability.csv",
+    "reviewer_round7/tables/resample_counts.csv",
+    "reviewer_round4/tables/held_out_allocation_outputs.csv",
+    "reviewer_round4/tables/conditional_bootstrap_contrasts.csv",
+    "reviewer_round2/tables/participant_stability.csv",
+    "reviewer_round2/tables/held_out_predictions_new_repeats.csv"
+  ]
+}
